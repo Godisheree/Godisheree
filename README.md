@@ -58,5 +58,3 @@ Full-stack JS/Node dev — WhatsApp bots, automation tooling, Minecraft mods. Mo
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:bc13fe,100:0d1117&height=90&section=footer" width="100%"/>
 
 </div>
-
-
